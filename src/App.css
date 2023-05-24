@@ -1,0 +1,16 @@
+.counter {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#btn {
+  height: 35px;
+  width: 150px;
+  margin-left: 5px;
+}
+p {
+  font-size: 40px;
+  margin-top: -10px;
+}
